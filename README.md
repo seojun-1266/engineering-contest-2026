@@ -19,6 +19,10 @@ EMS(전기근육자극) 기반 뇌졸중·마비 환자 재활 보조 시스템 
 카메라(MediaPipe)로 손/팔의 움직임을 실시간으로 인식해 목표 동작으로 삼고, 그 목표에
 가까워지도록 EMS 자극 세기를 자동으로 조절하는 폐루프 제어 시스템입니다.
 
+<img src="docs/demo.gif" alt="웹앱 실행 화면 데모" width="640">
+
+*실제 발표 영상 중 웹앱 화면 부분(거울 모드, 목표 vs 실제 비교 & 자극 제어 패널)*
+
 ```
 [카메라] --MediaPipe 인식--> [PC: 웹앱]
                                   |  목표 vs 실제 오차 계산 → 폐루프 제어값(0~100) 산출
@@ -34,10 +38,10 @@ EMS(전기근육자극) 기반 뇌졸중·마비 환자 재활 보조 시스템 
 
 <table>
 <tr>
-<td width="25%"><img src="docs/판넬용_사진/사진1_제어보드+배터리.jpg" alt="제어보드+배터리"></td>
-<td width="25%"><img src="docs/판넬용_사진/사진2_TENS장치+전극패치.jpg" alt="TENS장치+전극패치"></td>
+<td width="25%"><img src="docs/판넬용_사진/사진1_제어보드_배터리.jpg" alt="제어보드+배터리"></td>
+<td width="25%"><img src="docs/판넬용_사진/사진2_TENS장치_전극패치.jpg" alt="TENS장치+전극패치"></td>
 <td width="25%"><img src="docs/판넬용_사진/사진3_PCB실물.jpg" alt="PCB 실물"></td>
-<td width="25%"><img src="docs/판넬용_사진/사진4_회로도+기판설계.jpg" alt="회로도+기판설계"></td>
+<td width="25%"><img src="docs/판넬용_사진/사진4_회로도_기판설계.jpg" alt="회로도+기판설계"></td>
 </tr>
 <tr>
 <td align="center">제어보드 + 배터리</td>
