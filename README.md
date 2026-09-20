@@ -19,7 +19,7 @@ EMS(전기근육자극) 기반 뇌졸중·마비 환자 재활 보조 시스템 
 카메라(MediaPipe)로 손/팔의 움직임을 실시간으로 인식해 목표 동작으로 삼고, 그 목표에
 가까워지도록 EMS 자극 세기를 자동으로 조절하는 폐루프 제어 시스템입니다.
 
-<img src="docs/demo.gif" alt="웹앱 실행 화면 데모" width="640">
+![웹앱 실행 화면 데모](docs/demo.gif)
 
 *실제 발표 영상 중 웹앱 화면 부분(거울 모드, 목표 vs 실제 비교 & 자극 제어 패널)*
 
@@ -36,20 +36,9 @@ EMS(전기근육자극) 기반 뇌졸중·마비 환자 재활 보조 시스템 
 
 ## 프로젝트 사진
 
-<table>
-<tr>
-<td width="25%"><img src="docs/판넬용_사진/사진1_제어보드_배터리.jpg" alt="제어보드+배터리"></td>
-<td width="25%"><img src="docs/판넬용_사진/사진2_TENS장치_전극패치.jpg" alt="TENS장치+전극패치"></td>
-<td width="25%"><img src="docs/판넬용_사진/사진3_PCB실물.jpg" alt="PCB 실물"></td>
-<td width="25%"><img src="docs/판넬용_사진/사진4_회로도_기판설계.jpg" alt="회로도+기판설계"></td>
-</tr>
-<tr>
-<td align="center">제어보드 + 배터리</td>
-<td align="center">TENS 장치 + 전극패치</td>
-<td align="center">직접 설계·제작한 PCB</td>
-<td align="center">회로도 + 기판 설계</td>
-</tr>
-</table>
+| 제어보드 + 배터리 | TENS 장치 + 전극패치 | 직접 설계·제작한 PCB | 회로도 + 기판 설계 |
+|---|---|---|---|
+| ![제어보드+배터리](docs/판넬용_사진/사진1_제어보드_배터리.jpg) | ![TENS장치+전극패치](docs/판넬용_사진/사진2_TENS장치_전극패치.jpg) | ![PCB 실물](docs/판넬용_사진/사진3_PCB실물.jpg) | ![회로도+기판설계](docs/판넬용_사진/사진4_회로도_기판설계.jpg) |
 
 전시판넬 원본은 [`docs/EMS재활보조시스템_전시판넬_A2.pdf`](docs/EMS재활보조시스템_전시판넬_A2.pdf),
 발표자료는 [`docs/EMS재활보조시스템_발표자료.pptx`](docs/EMS재활보조시스템_발표자료.pptx)를 참고하세요.
